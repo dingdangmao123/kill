@@ -23,3 +23,7 @@ for v in res:
 		print e
 	#os.system("kill -9 "+str(v))
 print str(len(res)-2)+" progess killed\n"
+#shell grep process has been killed,but the pid was stored
+
+
+
